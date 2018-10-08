@@ -1,6 +1,6 @@
 public class Robi {
 
     public String cheer (){
-        return "Hajrá gyerekek!!!";
+        return "Hajrá gyermekeim az Úrban!!!";
     }
 }
