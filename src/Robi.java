@@ -1,5 +1,8 @@
 public class Robi {
+
+    private String name = "Robi";
+
     public void Greet(){
-        System.out.println("Robi");
+        System.out.println(name);
     }
 }
