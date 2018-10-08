@@ -1,5 +1,6 @@
 public class Zsofi {
-    public String cheer (){
-        return "Hajrá gyermekeim az Úrban!";
+    public String cheer (String toPrint){
+        toPrint = "Hajrá gyermekeim";
+        return toPrint;
     }
 }
